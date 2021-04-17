@@ -39,4 +39,4 @@
 
 - Playlist : https://www.youtube.com/watch?v=v0IgI8vYD_o&list=PL1MK7nFniZZYRV5sign661Pq--3DbF9Bn&ab_channel=EasyTutorials
 - https://www.youtube.com/watch?v=yQimoqo0-7g&ab_channel=EasyTutorials
-- https://www.youtube.com/watch?v=W21rnDn8L9U&ab_channel=ThapaTechnical  
+- https://www.youtube.com/watch?v=lBfshkPlMW8&ab_channel=EasyTutorials 
