@@ -40,3 +40,31 @@
 - Playlist : https://www.youtube.com/watch?v=v0IgI8vYD_o&list=PL1MK7nFniZZYRV5sign661Pq--3DbF9Bn&ab_channel=EasyTutorials
 - https://www.youtube.com/watch?v=yQimoqo0-7g&ab_channel=EasyTutorials
 - https://www.youtube.com/watch?v=lBfshkPlMW8&ab_channel=EasyTutorials 
+
+
+### Github
+
+- https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK&ab_channel=TheCodingTrain
+- https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&ab_channel=TheNetNinja
+- https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia
+- https://www.youtube.com/watch?v=oXsWE9XRVC0&list=PL4KwFGqvN4nsAlTIl6FcEubM2CtHW7zTC&index=1
+- https://www.youtube.com/watch?v=OdbBmvfThJY&list=PLsyeobzWxl7q2eaUkorLZExfd7qko9sZC
+- https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org
+
+
+### Deploying sites
+
+*Github pages*
+
+- https://www.youtube.com/watch?v=QyFcl_Fba-k&ab_channel=TheNetNinja
+- https://www.youtube.com/watch?v=bFVtrlyH-kc&t=18s&ab_channel=TheCodingTrain
+
+*Netlify*
+
+- https://www.youtube.com/watch?v=c2JpRmmY8ws&ab_channel=GajeshSNaik
+- https://www.youtube.com/watch?v=cUMUTS2ybhg&ab_channel=packetcode
+
+- 
+### VS Code extensions
+
+- https://markfusion.medium.com/10-vscode-extensions-that-every-web-developer-should-use-23894b2ccf2
